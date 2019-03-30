@@ -25,3 +25,9 @@ To run just type
 ```
 python3 bot.py
 ```
+
+If you want to change the frequency messages are sent just replace the 1.5 here
+```
+time.sleep(1.5)
+```
+with the number of seconds between messages
