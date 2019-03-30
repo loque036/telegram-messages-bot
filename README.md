@@ -15,9 +15,9 @@ edit bot.py with nano
 ```
 sudo nano bot.py
 ```
-Replace Bot_API_Key with your bot's api key. You can get it from https://t.me/BotFather (don't delete the quotes)
+Replace ```Bot_API_Key``` with your bot's api key. You can get it from https://t.me/BotFather (don't delete the quotes)
 
-Replace Your_ID with your Telegram ID. You can get it with a bot like Marie or Rose and replying to yourself with /info (again, don't delete the quotes)
+Replace ```Your_ID``` with your Telegram ID. You can get it with a bot like Marie or Rose and replying to yourself with /info (again, don't delete the quotes)
 
 Save changes
 
