@@ -9,7 +9,7 @@ git clone https://github.com/loque036/telegram_messages_bot/
 ```
 Install requirements
 ```
-pip3 install requirements.txt
+pip3 install --upgrade -r requirements.txt
 ```
 edit bot.py with nano
 ```
