@@ -13,7 +13,7 @@ pip3 install requirements.txt
 ```
 edit bot.py with nano
 ```
-sudo nano bot.py
+nano bot.py
 ```
 Replace ```Bot_API_Key``` with your bot's api key. You can get it from https://t.me/BotFather (don't delete the quotes)
 
